@@ -15,7 +15,10 @@ This project displays a fully functional back-end for an e-commerce website. The
 
 ## Screenshots / Demo
 
-- 
+- ![Screenshot](./assets/ecommerce.png)
+- ![Screenshot](./assets/ecommerce2.png)
+
+
 
 ## Installation
 No installation steps required.
