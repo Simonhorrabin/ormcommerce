@@ -42,5 +42,5 @@ No testing instructions provided.
 
 ## Questions
 If you have any suggestions on how to upgrade this application or any questions, feel free to contact me via the following links:
-- Github Username: [Cjmoye30](https://github.com/simonhorrabin)
+- Github Username: [simonhorrabin](https://github.com/simonhorrabin)
 - Email: simonhorrabin@gmail.com
