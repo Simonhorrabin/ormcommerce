@@ -17,7 +17,9 @@ This project displays a fully functional back-end for an e-commerce website. The
 
 - ![Screenshot](./assets/ecommerce.png)
 - ![Screenshot](./assets/ecommerce2.png)
+<img width="892" alt="ecommerce" src="https://github.com/Simonhorrabin/ormcommerce/assets/123128833/b650ef57-b093-429b-8d79-639e468ed681">
 
+<img width="923" alt="ecommerce2" src="https://github.com/Simonhorrabin/ormcommerce/assets/123128833/b1babe62-ab2d-415a-9c54-5650b7f246f8">
 
 
 ## Installation
